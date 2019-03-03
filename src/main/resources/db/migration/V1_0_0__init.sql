@@ -46,3 +46,7 @@ INSERT INTO item_category VALUES (5, 2);
 INSERT INTO item_category VALUES (6, 2);
 INSERT INTO item_category VALUES (7, 3);
 INSERT INTO item_category VALUES (8, 3);
+
+
+
+
